@@ -12,6 +12,7 @@ namespace RainMeadow
             public static ProcessManager.ProcessID ArenaLobbyMenu = new("ArenaLobbyMenu", true);
             public static ProcessManager.ProcessID MeadowMenu = new("MeadowMenu", true);
             public static ProcessManager.ProcessID StoryMenu = new("StoryMenu", true);
+            public static ProcessManager.ProcessID ExpeditionMenu = new("ExpeditionMenu", true);
             public static ProcessManager.ProcessID SpectatorMode = new("SpectatorMode", true);
             public static ProcessManager.ProcessID ChatMode = new("ChatMode", true);
             public static ProcessManager.ProcessID MeadowCredits = new("MeadowCredits", true);

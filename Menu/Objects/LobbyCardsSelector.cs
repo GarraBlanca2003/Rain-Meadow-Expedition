@@ -118,7 +118,8 @@ public class LobbyCardsList : RectangularMenuObject, Slider.ISliderOwner
             All,
             Meadow,
             Story,
-            ArenaCompetitive
+            ArenaCompetitive,
+            Expedition
         }
 
         public LobbyCardsFilter()
